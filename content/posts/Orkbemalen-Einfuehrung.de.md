@@ -3,7 +3,7 @@ title: "Orkbemalen Einführung"
 subtitle: "Techniken des Malens"
 date: 2026-03-26T17:53:13+01:00
 lastmod: 2026-03-26T17:53:13+01:00
-draft: false
+draft: true
 author: ""
 authorLink: ""
 description: "Anleitung zum malen von Orks"

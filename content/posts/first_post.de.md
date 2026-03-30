@@ -3,7 +3,7 @@ title: "willkommen Maler"
 subtitle: ""
 date: 2026-03-26T17:42:20+01:00
 lastmod: 2026-03-26T17:42:20+01:00
-draft: false
+draft: true
 author: ""
 authorLink: ""
 description: "Ich möchte euch gerne zeigen was diese website ermöglicht"

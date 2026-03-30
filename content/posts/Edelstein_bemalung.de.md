@@ -36,29 +36,28 @@ code:
 ---
 
 ## Einleitung
-Liebe Bastelfreunde,
+Liebe Leser,
 
 manchmal entstehen die besten Projekte aus Zufällen. Heute möchte ich euch zeigen, wie man aus vermeintlichem Abfall – in diesem Fall **Dämmstoffplatten (Hartschaum)** und kleinen **Styroporkügelchen** – beeindruckende, funkelnde Edelsteine im Felsgestein erschafft. 
 
-Das Projekt ist perfekt geeignet, um Reste zu verwerten und gleichzeitig Techniken für Licht und Schatten zu üben.
+Das Projekt ist perfekt geeignet, um Reste zu verwerten und mit einfachen Mitteln tolle Effekte zu erzielen.
 
 ---
 
 ## Was du dafür benötigst
 Bevor wir starten, stelle sicher, dass du folgende Utensilien bereitliegen hast:
 
-* **Farben:** Acrylfarben (Schwarz für die Grundierung, verschiedene Grautöne für den Fels, deine Wunschfarbe für die Steine sowie Weiß für die Highlights).
-* **Pinsel:** Einen mittelgroßen Borstenpinsel zum Trockenbürsten und einen feinen Pinsel für die Details der Edelsteine.
-* **Material:** Ein Reststück Hartschaum/Dämmplatte und Styroporkügelchen (oder andere strukturierte Reste).
-* **Kleber:** Bastelkleber oder Leim (kein lösungsmittelhaltiger Kleber, da dieser den Schaum frisst!).
-* **Optional:** Glanzlack, um den Edelsteinen am Ende den richtigen Schliff zu geben.
+* **Farben:** Einfache Acrylfarben (Grau für den Fels, deine Wunschfarbe für die Steine sowie Weiß für die Akzente).
+* **Pinsel:** Ein mittelgroßer Pinsel für die Flächen und ein feiner Pinsel für die Details.
+* **Material:** Ein Reststück Hartschaum/Dämmplatte und Styroporkügelchen.
+* **Kleber:** Bastelkleber oder Leim (bitte keinen lösungsmittelhaltigen Kleber verwenden, da dieser den Schaum auflösen kann).
 
 ---
 
 ## Der Entstehungsprozess
 
 ### Die Basis schaffen
-Alles begann mit einem Missgeschick: Mir ist beim Modellieren ein Stück Hartschaum abgebrochen. Anstatt es wegzuwerfen, habe ich die raue Bruchstelle mit ein paar Styroporkügelchen beklebt. Die unebene Struktur ist die perfekte Grundlage für eine Kristallader im Gestein.
+Alles begann mit einem Missgeschick: Mir ist beim Modellieren ein Stück Hartschaum abgebrochen. Anstatt es wegzuwerfen, habe ich die raue Bruchstelle mit ein paar Styroporkügelchen beklebt. Diese unebene Struktur ist die perfekte Grundlage für eine Kristallader, die direkt aus dem Gestein wächst.
 
 {{< figure
     src="/images/Edelstein.jpg"
@@ -67,43 +66,41 @@ Alles begann mit einem Missgeschick: Mir ist beim Modellieren ein Stück Hartsch
     class="ma0 w-75" 
 >}}
 
-### Schritt 1: Die Grundierung und der Fels
-Zuerst habe ich das gesamte Stück schwarz grundiert. Danach wurde der "Fels" mit der **Trockenbürst-Technik** bearbeitet. Dabei nimmst du wenig graue Farbe auf einen trockenen Pinsel, streichst das Meiste an einem Tuch ab und fährst nur leicht über die Erhebungen. So bleiben die Vertiefungen dunkel und die Textur des Schaums kommt richtig zur Geltung.
+### Schritt 1: Den Fels bemalen
+Im ersten Schritt habe ich den Stein komplett grau angemalt. Dabei war es mir wichtig, die Farbe satt aufzutragen, sodass keine Lücken mehr zu sehen sind und das Material des Hartschaums vollständig verdeckt wird. So entsteht eine solide, steinige Optik für den Hintergrund.
 
 {{< figure
     src="/images/stein_bemalt.jpg"
     alt="Stein bemalt"
-    caption="Nach dem Trockenbürsten: Der Fels wirkt bereits massiv und echt."
+    caption="Die graue Grundschicht sorgt für eine saubere, steinerne Optik."
     class="ma0 w-75" 
 >}}
 
-### Schritt 2: Den Edelsteinen Farbe verleihen
-Jetzt kommt der spannende Teil! Die kleinen Styroporkugeln werden zu Edelsteinen. Ich habe hierfür ein kräftiges Blau genutzt. 
+### Schritt 2: Die Edelsteine zum Leuchten bringen
+Nachdem das Grau getrocknet war, kamen die "Edelsteine" an die Reihe. Die kleinen Styroporkugeln wurden mit einer kräftigen Farbe bemalt. 
 
-**Tipp für den Tiefeneffekt:** Male den unteren Teil der Kugel in einem helleren Ton und setze oben einen winzigen, harten Punkt in reinem Weiß. Das simuliert die Lichtbrechung im Kristall.
+**Ein kleiner Trick:** Wenn man die Farbe an manchen Stellen etwas heller oder dunkler aufträgt, wirken die Kugeln sofort wie echte, geschliffene Kristalle.
 
 {{< figure
     src="/images/edelstein_kristall_bemalt.jpg"
     alt="Edelstein bemalt"
-    caption="Die Farbschichten werden aufgetragen, um Leuchtkraft zu erzeugen."
+    caption="Hier bekommen die Kristalle ihre markante Farbe."
     class="ma0 w-75" 
 >}}
 
-### Schritt 3: Das Finale (Highlights setzen)
-Zum Abschluss habe ich die Kanten des Felsens noch einmal mit einem ganz hellen Grau betont und die Kristalle mit einem Tropfen Glanzlack versiegelt. Das lässt sie wie echte Edelsteine aus dem matten Stein hervorstechen.
+### Schritt 3: Das Finale
+Zum Abschluss habe ich noch letzte Details hinzugefügt. Ein paar feine weiße Lichtpunkte auf den "Steinen" lassen sie richtig glänzen und heben sie von dem matten, grauen Fels ab.
 
 {{< figure
     src="/images/fertiger_edelstein.jpg"
     alt="Edelstein fertig"
-    caption="Das fertige Ergebnis: Vom Abfall zum Hingucker im Regal!"
+    caption="Das fertige Ergebnis: Ein kleiner Schatz, der aus dem Fels bricht!"
     class="ma0 w-75" 
 >}}
 
 ---
 
 ## Fazit
-Wie ihr seht, braucht es kein teures Material, um tolle Effekte zu erzielen. Ein abgebrochenes Stück Hartschaum und etwas Kreativität reichen völlig aus. Dieses kleine Projekt eignet sich hervorragend als Geländestück für Tabletop-Spiele oder einfach als dekorativer Blickfang.
+Wie ihr seht, braucht es kein teures Material, um tolle Effekte zu erzielen. Ein abgebrochenes Stück Hartschaum, ein paar Farbreste und etwas Kreativität reichen völlig aus. Dieses kleine Projekt ist ein toller Beweis dafür, dass man auch aus Resten noch wunderbare Modellbau-Stücke zaubern kann.
 
-Habt ihr auch schon einmal aus "Müll" etwas Neues erschaffen? Schreibt es mir gerne in die Kommentare!
-
-Viel Spaß beim Nachbasteln!
+Viel Spaß beim Nachbasteln und Experimentieren mit euren eigenen Farbkombinationen!
