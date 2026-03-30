@@ -318,7 +318,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
-    Youtubechannel = "@Gurkonator"
+    Youtubechannel = "UCbgWttZCBxbtqHl4fOdU33g"
     Tumblr = ""
     Quora = ""
     Keybase = ""
@@ -370,8 +370,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Discord = ""
-    DiscordInvite = ""
+    Discord = "fortnitenamenormal1132"
+    DiscordInvite = "3yrHugwhNn"
     Lichess = ""
     ORCID = ""
     Pleroma = ""
@@ -519,11 +519,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Mix = false
       Telegram = true
     # Comment config
-    # 评论系统设置
     [params.page.comment]
-      enable = false
+      enable = true
       # Disqus comment config (https://disqus.com/)
-      # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
         enable = false
         # Disqus shortname to use Disqus in posts
@@ -540,7 +538,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
         appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
@@ -602,21 +600,19 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         lightTheme = "github-light"
         darkTheme = "github-dark"
       # giscus comment config (https://giscus.app/)
-      # giscus comment 评论系统设置 (https://giscus.app/zh-CN)
       [params.page.comment.giscus]
         # You can refer to the official documentation of giscus to use the following configuration.
         # 你可以参考官方文档来使用下列配置
-        enable = false
-        repo = ""
-        repoId = ""
+        enable = true
+        repo = "gurkonator/gurkonator.github.io"
+        repoId = "R_kgDORwoZ1w"
         category = "Announcements"
-        categoryId = ""
+        categoryId = "DIC_kwDORwoZ184C5n1K"
         # automatically adapt the current theme i18n configuration when empty
-        # 为空时自动适配当前主题 i18n 配置
         lang = ""
         mapping = "pathname"
         reactionsEnabled = "1"
-        emitMetadata = "0"
+        emitMetadata = "1"
         inputPosition = "bottom"
         lazyLoading = false
         lightTheme = "light"
@@ -859,14 +855,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "Kategorien"
         url = "/categories/"
         title = ""
-      [[languages.de.menu.main]]
-        weight = 4
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
+    # [[languages.de.menu.main]]
+    # weight = 4
+    #identifier = "documentation"
+    #pre = ""
+    #post = ""
+    #name = "Docs"
+    #url = "/categories/documentation/"
+    #title = ""
       [[languages.de.menu.main]]
         weight = 5
         identifier = "about"
@@ -881,55 +877,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fab fa-github' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/myaccount"
+        url = "https://github.com/gurkonator"
         title = "GitHub"
-  [languages.en]
-    weight = 2
-    languageCode = "en"
-    languageName = "English"
-    title = "My Blog"
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        name = "Posts"
-        url = "posts"
-        weight = 1
-      [[languages.en.menu.main]]
-        weight = 2
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "Tags"
-        url = "/tags/"
-        title = ""
-      [[languages.en.menu.main]]
-        weight = 3
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "Categories"
-        url = "/categories/"
-        title = ""
-      [[languages.en.menu.main]]
-        weight = 4
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
-      [[languages.en.menu.main]]
-        weight = 5
-        identifier = "about"
-        pre = ""
-        post = ""
-        name = "About"
-        url = "/about/"
-        title = ""
-      [[languages.en.menu.main]]
-        weight = 6
-        identifier = "github"
-        pre = "<i class='fab fa-github' aria-hidden='true'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/buzzdeee"
-        title = "GitHub"
+  
