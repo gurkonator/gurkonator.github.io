@@ -6,9 +6,9 @@ Was dich hier erwartet
 
 In der düsteren Zukunft des 41. Jahrtausends gibt es bekanntlich nur Krieg – aber auf diesem Blog gibt es vor allem Lösungen für den Hobby-Alltag. Ich dokumentiere hier meine Reise durch das Hobby und teile alles, was ich lerne:
 
-    Modellbau: Von der Entgratung bis zum komplexen Kitbashing. Ich zeige dir, wie du deine Armee individuell gestaltest.
-    Bemalung: Egal ob Battle-Ready für das nächste Turnier oder stolze Vitrinenstücke. Ich experimentiere gerne mit Techniken wie Drybrushing, Glazing oder dem Einsatz von Contrast-Farben.
-    Schritt-für-Schritt Anleitungen: Mein Ziel ist es, komplexe Prozesse einfach zu erklären, damit du mehr Zeit am Maltisch und weniger mit Rätselraten verbringst.
+* **Modellbau**: Von der Entgratung bis zum komplexen Kitbashing. Ich zeige dir, wie du deine Armee individuell gestaltest.
+* **Bemalung**: Egal ob Battle-Ready für das nächste Turnier oder stolze Vitrinenstücke. Ich experimentiere gerne mit Techniken wie Drybrushing, Glazing oder dem Einsatz von Contrast-Farben.
+* **Schritt-für-Schritt Anleitungen**: Mein Ziel ist es, komplexe Prozesse einfach zu erklären, damit du mehr Zeit am Maltisch und weniger mit Rätselraten verbringst.
 
 # Warum dieser Blog?
 
