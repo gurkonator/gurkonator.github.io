@@ -7,11 +7,11 @@ draft: false
 author: ""
 authorLink: ""
 description: ""
-license: ""
+license: "MIT"
 images: [ "images/April.png" ]
 
-tags: []
-categories: []
+tags: ["Monatsbeginn"]
+categories: ["Monatsanfang"]
 
 featuredImage: ""
 featuredImagePreview: "images/April.png"
