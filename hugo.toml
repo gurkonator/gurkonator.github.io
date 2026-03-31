@@ -1,4 +1,4 @@
-baseURL = "https://warpaints.reitenba.ch"
+baseURL = "https://wootzart.reitenba.ch"
 
 # theme
 # 主题
@@ -9,7 +9,7 @@ themesDir = "themes"
 
 # website title
 # 网站标题
-title = "Warpaints"
+title = "Wootzart"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
