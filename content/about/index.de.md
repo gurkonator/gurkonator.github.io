@@ -1,10 +1,10 @@
 ---
-title: "About Warpaints"
+title: "About WootzArts"
 layout: "single"
 nodateline: true
 noauthor: true
 ---
-## Über Warpaints
+## Über WootzArts
 
 ### Willkommen im Imperium (oder wo auch immer du kämpfst!)
 
