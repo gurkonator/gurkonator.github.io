@@ -10,8 +10,8 @@ description: ""
 license: ""
 images: []
 
-tags: []
-categories: []
+tags: [tutorial]
+categories: [Orks]
 
 featuredImage: ""
 featuredImagePreview: ""
