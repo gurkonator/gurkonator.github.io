@@ -69,12 +69,14 @@ Heute teile ich mit euch einen kleinen Einblick in mein aktuelles Projekt. Ich h
 
 ### Der Anfang: Ganz normaler Plastik
 Ich dachte, ich zeige euch kurz, womit alles anfing. Die Miniatur war, wie es sich für diese Bausätze gehört, ein ganz normales, graues Stück Plastik. Auf diesem Bild könnt ihr den Grot noch komplett unbemalt sehen, frisch zusammengebaut und bereit für die ersten Farben.
+
 {{< figure
     src="/images/grot_unbemalt.jpg"
     alt=""
     caption=""
     class="ma0 w-75" 
 >}}
+
 ### Die Farbpalette
 Für diesen kleinen Kerl nutze ich eine Mischung aus **The Army Painter (Warpaints)** und **Citadel**, um die typische Optik einzufangen:
 
@@ -88,6 +90,7 @@ Für diesen kleinen Kerl nutze ich eine Mischung aus **The Army Painter (Warpain
     caption=""
     class="ma0 w-75" 
 >}}
+
 ### Was steht noch an?
 Die Basis ist gelegt, aber fertig ist er natürlich noch nicht. Als Nächstes folgen die Schattierungen (Washes), um mehr Tiefe in die Muskeln und die Kleidung zu bringen, sowie die finalen Highlights an den Kanten der Waffe. Auch die Base braucht noch ein passendes Thema, damit der Grot nicht im Leeren steht.
 
