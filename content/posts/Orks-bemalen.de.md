@@ -14,7 +14,7 @@ tags: [tutorial]
 categories: [Orks]
 
 featuredImage: ""
-featuredImagePreview: ""
+featuredImagePreview: "/images/grot_bemalt.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -70,7 +70,7 @@ Heute teile ich mit euch einen kleinen Einblick in mein aktuelles Projekt. Ich h
 ### Der Anfang: Ganz normaler Plastik
 Ich dachte, ich zeige euch kurz, womit alles anfing. Die Miniatur war, wie es sich für diese Bausätze gehört, ein ganz normales, graues Stück Plastik. Auf diesem Bild könnt ihr den Grot noch komplett unbemalt sehen, frisch zusammengebaut und bereit für die ersten Farben.
 {{< figure
-    src="/images/grot_unbemal.jpg"
+    src="/images/grot_unbemalt.jpg"
     alt=""
     caption=""
     class="ma0 w-75" 
@@ -83,7 +83,7 @@ Für diesen kleinen Kerl nutze ich eine Mischung aus **The Army Painter (Warpain
 * **Kleidung & Leder:** Der auffällige Schurz leuchtet in **Pure Red**, während die restlichen Lederriemen und Details in **Dryad Brown** (Warpaints) gehalten sind.
 
 {{< figure
-    src="/images/grot_bemal.jpg"
+    src="/images/grot_bemalt.jpg"
     alt=""
     caption=""
     class="ma0 w-75" 
