@@ -14,7 +14,7 @@ tags: [tutorial]
 categories: [Orks]
 
 featuredImage: ""
-featuredImagePreview: " /images/grot_bemalt.jpg "
+featuredImagePreview: "/images/grot_bemalt.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
